@@ -98,7 +98,7 @@ python server.py &
 
 echo "Done!"
 clear
-echo "Hotspot Started"
+echo "ArtisanROM Hotspot Started"
 echo "Captcha Portal Started"
 echo " "
 echp "You can now have other devices connect!"
